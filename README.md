@@ -39,7 +39,7 @@ Considera el código que se adjunta: ArrayOperations.java.
 ![Resultados Pruebas](Capturas/resultadospruebas.png)
 
 ### Retos y aprendizaje:
-- No hubo retos presentados.
+- El reto presentado fue configurar correctamente el entorno de pruebas.
 - Aprendí más sobre el manejo de las pruebas y la importancia de estas para verificar posibles errorés.
 
 ### Uso de IA:
