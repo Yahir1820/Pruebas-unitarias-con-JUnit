@@ -17,6 +17,8 @@ Considera el código que se adjunta: ArrayOperations.java.
 - ¿Cómo utilizaste la IA? Para consultar dudas, para orientar la solución, para resolver todo (copiar y pegar), otros aspectos.
 
 ### Pruebas Unitarias del método `numZero`
+[ArrayOperationsTest.java](src/test/java/pruebas/ArrayOperationsTest.java)
+
 #### 1. Prueba para validar si el método al recibir un arreglo sin ceros devuelva 0:
 ![Prueba 1](Capturas/numZerosSinCerosYRecibe0.png)
 
