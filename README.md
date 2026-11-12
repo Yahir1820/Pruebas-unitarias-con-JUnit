@@ -34,7 +34,7 @@ Considera el código que se adjunta: ArrayOperations.java.
 ![Prueba 5](Capturas/numZerosSinNumsRecibe0.png)
 
 #### Resultados:  
-![Resultados Pruebas](resultadospruebas.png)
+![Resultados Pruebas](Capturas/resultadospruebas.png)
 
 ### Retos y aprendizaje:
 - No hubo retos presentados.
